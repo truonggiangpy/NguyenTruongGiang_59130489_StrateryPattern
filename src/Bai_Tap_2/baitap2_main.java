@@ -39,7 +39,7 @@ public class baitap2_main {
 
                 
         ArrayList<hanghoa> danhsachHangHoa2 = giohang2.getDanhsachhanghoa();
-        System.out.println("hang trong giỏ có");
+        System.out.println("\nhang trong giỏ có");
         for(int i=0;i< danhsachHangHoa2.size();i++)
         {
              System.out.println("hàng " + danhsachHangHoa2.get(i).thongTinHH());
