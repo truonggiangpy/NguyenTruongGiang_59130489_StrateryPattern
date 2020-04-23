@@ -15,7 +15,7 @@ public class baitap_main {
         context.setTinhToan(new cong());
         context.setTinhToan(new tru());
         float tinhcong= context.tinh(75, 12);
-        float tinhtru= context.tinh(54, 78);
+        float tinhtru= context.tinh(54, 78);//tinh toan tru
         System.out.println(tinhcong);
         System.out.println(tinhtru);//tinh trừ
     }
