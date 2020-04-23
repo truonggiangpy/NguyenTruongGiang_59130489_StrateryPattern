@@ -12,6 +12,6 @@ package Bai_Tap_1;
 public class chia implements Interfacetinh{
         @Override
     public float tinh(float a, float b) {
-            return a / b;
+            return a / b;// tinh
     }
 }
