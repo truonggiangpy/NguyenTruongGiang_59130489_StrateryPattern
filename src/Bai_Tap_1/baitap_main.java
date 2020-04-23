@@ -17,6 +17,6 @@ public class baitap_main {
         float tinhcong= context.tinh(75, 12);
         float tinhtru= context.tinh(54, 78);
         System.out.println(tinhcong);
-        System.out.println(tinhtru);
+        System.out.println(tinhtru);//tinh trừ
     }
 }
